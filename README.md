@@ -4,6 +4,7 @@ MBA Finance candidate with experience in FinTech operations, payment systems, bu
 
 ## Skills
 - Business Analysis
+- Project Management
 - BRD / FRD / User Stories
 - SQL
 - Power BI
